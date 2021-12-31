@@ -1,0 +1,28 @@
+.content{
+    display: flex;
+}
+
+.images{
+    flex: 2;
+}
+
+.info{
+    flex: 1;
+    border: solid red 50px;
+    width: 500px;
+    height: 700px;
+    margin: 20px;
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+    font: 50px;
+}
+
+#image{
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
